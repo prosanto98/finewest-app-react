@@ -41,7 +41,7 @@ const Pricinggroup = () => {
                             </div> 
                         </div>
                         <div className="pr-p">
-                            <a className="get" href="#">Get start</a>
+                            <a href="#get-start" className="get">Get start</a>
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@ const Pricinggroup = () => {
                             </div> 
                         </div>
                         <div className="pr-p">
-                            <a className="get" href="#">Get start</a>
+                            <a href="#get-start" className="get">Get start</a>
                         </div>
                     </div>
                 </div>
@@ -107,7 +107,7 @@ const Pricinggroup = () => {
                             </div>    
                         </div>
                         <div className="pr-p">
-                            <a className="get" href="#">Get start</a>
+                            <a href="#get-start" className="get">Get start</a>
                         </div>
                     </div>
                 </div>

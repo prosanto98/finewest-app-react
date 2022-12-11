@@ -21,7 +21,7 @@ export const Blog = () => {
                             See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract
                         </p>
                        <div className="more">
-                        <a href="#">Read More</a>
+                        <a href="#read-more">Read More</a>
                         <i className="fa-solid  fa-arrow-right"></i>
                        </div>
                     </div>
@@ -38,7 +38,7 @@ export const Blog = () => {
                             See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract
                         </p>
                        <div className="more">
-                        <a href="#">Read More</a>
+                        <a href="#read-more">Read More</a>
                         <i className="fa-solid  fa-arrow-right"></i>
                        </div>
                     </div>
@@ -55,7 +55,7 @@ export const Blog = () => {
                             See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract
                         </p>
                        <div className="more">
-                        <a href="#">Read More</a>
+                        <a href="#read-more">Read More</a>
                         <i className="fa-solid  fa-arrow-right"></i>
                        </div>
                     </div>

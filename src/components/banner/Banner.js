@@ -17,8 +17,8 @@ import React from 'react'
                     eiusmod tempor incididunt.
                 </p>
                 <div className="btn">
-                    <a className="view" href="#">View our work</a>
-                    <a className="pricing" href="#">View Pricing</a>
+                    <a href="#view" className="view">View our work</a>
+                    <a href="#view-pricing" className="pricing">View Pricing</a>
                     <i className="fa-solid priceing-arrow fa-arrow-right change-arrow"></i>
                 </div>
             </div>

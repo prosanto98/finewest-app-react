@@ -6,9 +6,9 @@ const Template = () => {
     <div className="container">
         <div className="ui-link">
             <a className="all-link" href="#">All</a>
-            <a href="#">UI Design</a>
-            <a href="#">Webflow Design</a>
-            <a href="#">Figma Design</a>
+            <a href="#ui-design">UI Design</a>
+            <a href="#webflow-design">Webflow Design</a>
+            <a href="#figma-design">Figma Design</a>
         </div>
         <div className="ui-temp-item">
             <div className="ui-temp">
@@ -19,7 +19,7 @@ const Template = () => {
                         Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle.
                     </p>
                     <div className="more">
-                        <a href="#">View Portfolio</a>
+                        <a href="#view-portfolio">View Portfolio</a>
                         <i className="fa-solid pricing-arrow fa-arrow-right"></i>
                     </div>
                 </div>
@@ -32,7 +32,7 @@ const Template = () => {
                         Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle.
                     </p>
                     <div className="more">
-                        <a href="#">View Portfolio</a>
+                        <a href="#view-portfolio">View Portfolio</a>
                         <i className="fa-solid pricing-arrow fa-arrow-right"></i>
                     </div>
                 </div>
@@ -45,7 +45,7 @@ const Template = () => {
                         Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle.
                     </p>
                     <div className="more">
-                        <a href="#">View Portfolio</a>
+                        <a href="#view-portfolio">View Portfolio</a>
                         <i className="fa-solid pricing-arrow fa-arrow-right"></i>
                     </div>
                 </div>
@@ -58,7 +58,7 @@ const Template = () => {
                         Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle.
                     </p>
                     <div className="more">
-                        <a href="#">View Portfolio</a>
+                        <a href="#view-portfolio">View Portfolio</a>
                         <i className="fa-solid pricing-arrow fa-arrow-right"></i>
                     </div>
                 </div>
@@ -71,7 +71,7 @@ const Template = () => {
                         Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle.
                     </p>
                     <div className="more">
-                        <a href="#">View Portfolio</a>
+                        <a href="#view-portfolio">View Portfolio</a>
                         <i className="fa-solid pricing-arrow fa-arrow-right"></i>
                     </div>
                 </div>
@@ -84,7 +84,7 @@ const Template = () => {
                         Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle.
                     </p>
                     <div className="more">
-                        <a href="#">View Portfolio</a>
+                        <a href="#view-portfolio">View Portfolio</a>
                         <i className="fa-solid pricing-arrow fa-arrow-right"></i>
                     </div>
                 </div>

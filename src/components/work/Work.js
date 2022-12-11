@@ -13,7 +13,7 @@ export const Work = () => {
                     </p>
                         
                     <div className="touch-1">
-                        <a href="#">Get in touch with us</a>
+                        <a href="#get-touch">Get in touch with us</a>
                         <i className="fa-solid arrow fa-arrow-right"></i>
                     </div>
                 </div>

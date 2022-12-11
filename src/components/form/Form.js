@@ -35,9 +35,9 @@ export const Form = () => {
                             <input type="text" placeholder="Paste your Figma design URL"/>  
                         </div>
                         <div className="inquari-details">
-                            <a className="inquary" href="#">Send an Inquiry</a>
+                            <a href="#inquary"className="inquary">Send an Inquiry</a>
                             <div className="touch">
-                                <a href="#">Get in touch with us</a>
+                                <a href="#get-touch">Get in touch with us</a>
                                 <i className="fa-solid read fa-arrow-right"></i>
                             </div>
                         </div>

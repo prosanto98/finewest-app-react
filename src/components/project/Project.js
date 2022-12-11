@@ -9,7 +9,7 @@ export const Project = () => {
             <div className="projects">
                 <h2>View our projects</h2>
                 <div className="div">
-                    <a href="#">View More</a>
+                    <a href="#view-more">View More</a>
                     <i className="fa-solid view-more  fa-arrow-right"></i>
                 </div>
 
@@ -23,7 +23,7 @@ export const Project = () => {
                             Euismod faucibus turpis eu gravida <br/> mi. Pellentesque et velit aliquam  
                         </p>
                         <div className="project-link">
-                            <a href="#">View project</a>
+                            <a href="#view-project">View project</a>
                             <i className="fa-solid view-more-1  fa-arrow-right"></i>
                         </div>
                     </div>

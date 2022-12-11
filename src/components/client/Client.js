@@ -26,13 +26,10 @@ export const Client = () => {
                                 </div>
                             </div>
                             <div className="arrow-icon">
-                                <i className="fa-solid i-left fa-chevron-left"></i>
-                                <i className="fa-solid i-right fa-chevron-right"></i>
-                            </div>
-                               
-    
-                        </div>
-                    
+                             <i className="fa-solid i-left fa-chevron-left"></i>
+                             <i className="fa-solid i-right fa-chevron-right"></i>
+                         </div>
+                    </div>  
                 </div>
             </div>
         </div>
