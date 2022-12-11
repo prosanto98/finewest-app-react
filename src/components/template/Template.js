@@ -5,7 +5,7 @@ const Template = () => {
     <section className="ui">
     <div className="container">
         <div className="ui-link">
-            <a className="all-link" href="#">All</a>
+            <a href="#All" className="all-link">All</a>
             <a href="#ui-design">UI Design</a>
             <a href="#webflow-design">Webflow Design</a>
             <a href="#figma-design">Figma Design</a>
